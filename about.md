@@ -35,11 +35,27 @@ key: page-about
 
 #### Welcome to my blog:)
 
-In this blog, I will write some book reports, methods of learning foreign languages as well as IT-projects. Here you can also find information about the Chinese language and culture which I made for especially Europeans who are working with Chinese technology or industrial companies. Also, I am glad to share my life experience and some very interesting high-tech news about the Chinese market which you will not easily find on other local media.
 
-The name CB is for two meanings, the first is Crazy Bunny, and the second is Chinese Blogger. The Crazy Bunny is a sweet rabbit with very long ears from my neighbor and he always amuses me. So I decided on this name as my blog name. I come from China and of course, I am a Chinese Blogger.
 
-I use this blog to record my life and find friends who focus on the same areas. I have been living in Europe since 2014. Besides Chinese and English, I know German very well and try to learn some French and Spanish. 
+In this blog, I am going to write some book reports, methods of learning foreign languages and technical projects. I also plan to share my experience of intercultural communication and international project management between China and Europe. 
 
-Now, enjoying your reading time!
+
+
+The name CB is for two meanings, the first is Crazy Bunny, and the second is Chinese Blogger. The Crazy Bunny is a sweet rabbit with very long ears from my neighbor. I decided on it as my blog name. I come from China and of course, I am a Chinese Blogger.
+
+
+
+I hope by this book to find friends who focus on the same areas. I have been living in Europe since 2014. Besides Chinese and English, I know German very well and try to learn some French and Spanish.
+
+
+
+Enjoy your reading time!
+
+
+
+- born in a north-western city in China around 1990 
+- studied in Shanghai & Germany for 5 years, B. Eng & M. Sc.
+- Technician, Wife and Mom
+- Web Programming, CAD Design and Robotics Development
+- Thinking, Reading and Writing
 
