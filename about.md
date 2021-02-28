@@ -31,27 +31,23 @@ key: page-about
 {: refdef}
 
 
-
-
 #### Welcome to my blog:)
-
 
 
 In this blog, I am going to write some book reports, methods of learning foreign languages and technical projects. I also plan to share my experience of intercultural communication and international project management between China and Europe. 
 
 
-
 The name CB is for two meanings, the first is Crazy Bunny, and the second is Chinese Blogger. The Crazy Bunny is a sweet rabbit with very long ears from my neighbor. I decided on it as my blog name. I come from China and of course, I am a Chinese Blogger.
-
 
 
 I hope by this book to find friends who focus on the same areas. I have been living in Europe since 2014. Besides Chinese and English, I know German very well and try to learn some French and Spanish.
 
 
-
 Enjoy your reading time!
 
+------
 
+**Who am I**
 
 - born in a north-western city in China around 1990 
 - studied in Shanghai & Germany for 5 years, B. Eng & M. Sc.
