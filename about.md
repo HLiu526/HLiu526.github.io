@@ -40,7 +40,7 @@ In this blog, I am going to write some book reports, methods of learning foreign
 The name CB is for two meanings, the first is Crazy Bunny, and the second is Chinese Blogger. The Crazy Bunny is a sweet rabbit with very long ears from my neighbor. I decided on it as my blog name. I come from China and of course, I am a Chinese Blogger.
 
 
-I hope by this book to find friends who focus on the same areas. I have been living in Europe since 2014. Besides Chinese and English, I know German very well and try to learn some French and Spanish.
+I hope by this blog to find friends who focus on the same areas. I have been living in Europe since 2014. Besides Chinese and English, I know German very well and try to learn some French and Spanish.
 
 
 Enjoy your reading time!
