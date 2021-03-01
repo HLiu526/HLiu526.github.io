@@ -49,7 +49,7 @@ Enjoy your reading time!
 
 **Who am I**
 
-- born in a north-western city in China around 1990 
+- born in a north-western city in China in the early 1990s 
 - studied in Shanghai & Germany for 5 years, B. Eng & M. Sc.
 - Technician, Wife and Mom
 - Web Programming, CAD Design and Robotics Development
