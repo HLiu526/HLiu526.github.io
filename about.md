@@ -51,7 +51,7 @@ Enjoy your reading time!
 
 - born in a north-western city in China in the early 1990s 
 - studied in Shanghai & Germany for 5 years, B. Eng & M. Sc.
-- Technician, Wife and Mom
-- Web Programming, CAD Design and Robotics Development
-- Thinking, Reading and Writing
+- Technician, wife and mom
+- Web programming, CAD design and robotics development
+- Thinking, reading and writing
 
